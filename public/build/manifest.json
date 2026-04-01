@@ -1,0 +1,74 @@
+{
+  "public/front/images/dropdown-dark.svg": {
+    "file": "assets/dropdown-dark-CbXxA4x4.svg",
+    "src": "public/front/images/dropdown-dark.svg"
+  },
+  "public/front/images/home/bg.png": {
+    "file": "assets/bg-DPEz4iH7.png",
+    "src": "public/front/images/home/bg.png"
+  },
+  "public/images/dashboard/details/card-bg.png": {
+    "file": "assets/card-bg-DkyMHdLH.png",
+    "src": "public/images/dashboard/details/card-bg.png"
+  },
+  "public/images/dashboard/details/welcome.png": {
+    "file": "assets/welcome-QUnfa1c-.png",
+    "src": "public/images/dashboard/details/welcome.png"
+  },
+  "public/images/dashboard/driver/bg-img.png": {
+    "file": "assets/bg-img-43vQKuH-.png",
+    "src": "public/images/dashboard/driver/bg-img.png"
+  },
+  "public/images/dashboard/front/chat.png": {
+    "file": "assets/chat-D8i2pec3.png",
+    "src": "public/images/dashboard/front/chat.png"
+  },
+  "public/images/dashboard/ride/bg-img.png": {
+    "file": "assets/bg-img-BU7ZAy-b.png",
+    "src": "public/images/dashboard/ride/bg-img.png"
+  },
+  "public/images/pdf.svg": {
+    "file": "assets/pdf-Bb8UjdAK.svg",
+    "src": "public/images/pdf.svg"
+  },
+  "resources/images/svg/danger.svg": {
+    "file": "assets/danger-Cq1Ex_Z3.svg",
+    "src": "resources/images/svg/danger.svg"
+  },
+  "resources/images/svg/dark-success.svg": {
+    "file": "assets/dark-success-BBhdD74d.svg",
+    "src": "resources/images/svg/dark-success.svg"
+  },
+  "resources/images/svg/location.svg": {
+    "file": "assets/location-CVOoxGSX.svg",
+    "src": "resources/images/svg/location.svg"
+  },
+  "resources/images/svg/success.svg": {
+    "file": "assets/success-go_bq4kK.svg",
+    "src": "resources/images/svg/success.svg"
+  },
+  "resources/images/svg/warning.svg": {
+    "file": "assets/warning-DsO4ZSdR.svg",
+    "src": "resources/images/svg/warning.svg"
+  },
+  "resources/images/svg/white-dropdown.svg": {
+    "file": "assets/white-dropdown-BFpSUYc4.svg",
+    "src": "resources/images/svg/white-dropdown.svg"
+  },
+  "resources/js/script.js": {
+    "file": "assets/script-BpfJPYU3.js",
+    "name": "script",
+    "src": "resources/js/script.js",
+    "isEntry": true
+  },
+  "resources/scss/admin.scss": {
+    "file": "assets/admin-CR7vA5nW.css",
+    "src": "resources/scss/admin.scss",
+    "isEntry": true
+  },
+  "resources/scss/front-style.scss": {
+    "file": "assets/front-style-s4iaUPEh.css",
+    "src": "resources/scss/front-style.scss",
+    "isEntry": true
+  }
+}

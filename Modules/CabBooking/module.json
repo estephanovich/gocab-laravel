@@ -1,0 +1,11 @@
+{
+    "name": "CabBooking",
+    "alias": "cabbooking",
+    "description": "A cab booking management platform enabling ride management for users and drivers.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CabBooking\\Providers\\CabBookingServiceProvider"
+    ],
+    "files": []
+}
